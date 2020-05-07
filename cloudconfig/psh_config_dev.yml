@@ -1,1 +1,5 @@
-tsts
+data:
+  env: psh_config_dev
+  user:
+    username: eureka-client-user
+    password: 1291029102

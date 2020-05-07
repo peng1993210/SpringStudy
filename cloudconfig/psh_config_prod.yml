@@ -1,1 +1,5 @@
-sdfsdfds
+data:
+  env: psh_config_prod
+  user:
+    username: eureka-client-user
+    password: 1291029102
